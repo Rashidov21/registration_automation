@@ -1,0 +1,1 @@
+playwright aiohttp beautifulsoup4 lxml faker loguru tenacity rich pytesseract Pillow opencv-python
